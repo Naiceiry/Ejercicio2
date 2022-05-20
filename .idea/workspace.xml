@@ -9,36 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a7ca627-004c-43e6-9f3c-945674cdc333" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/untitled_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manifest.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/personas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled-backend/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled-backend/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled-backend/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled-backend/src/main/java/org/example/Greeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled-backend/src/main/java/org/example/GreetingHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled-backend/src/main/java/org/example/WelcomeHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled-backend/src/main/resources/application-default.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled-backend/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled-backend/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled-backend/src/test/java/org/example/GreetingControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled-backend/src/test/resources/junit-platform.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled-frontend/elm.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled-frontend/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled-frontend/src/Main.elm" afterDir="false" />
-    </list>
+    <list default="true" id="5a7ca627-004c-43e6-9f3c-945674cdc333" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +37,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
@@ -93,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653040889268</updated>
-      <workItem from="1653040891731" duration="1554000" />
+      <workItem from="1653040891731" duration="1863000" />
     </task>
     <servers />
   </component>
